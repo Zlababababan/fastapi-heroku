@@ -1,3 +1,6 @@
 uvicorn
+sklearn
+pandas
+numpy
 fastapi
 joblib
